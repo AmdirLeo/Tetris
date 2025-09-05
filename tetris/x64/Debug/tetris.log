@@ -1,0 +1,4 @@
+﻿  tetris1.cpp
+D:\C++\tetris\tetris1.cpp(864,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C++\tetris\tetris1.cpp(274,1): warning C4715: “rotatable”: 不是所有的控件路径都返回值
+  tetris.vcxproj -> D:\C++\tetris\x64\Debug\tetris.exe
